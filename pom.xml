@@ -27,6 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
+	<!--Test commit through branch-->
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
